@@ -5,6 +5,10 @@
 
 NOTE: This add-in works on both Windows and Mac with the desktop Excel application. It does **not** work with the online Excel web-app.
 
+# Installation
+
+_Comming soon_
+
 # Tutorials
 
 [Building Decision Trees](https://youtu.be/O-ZQ8p5cSHA)
