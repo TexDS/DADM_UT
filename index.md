@@ -18,5 +18,7 @@ _Comming soon_
 
 # About
 
-DADM_UT is based on the [free Excel add-ins](https://host.kelley.iu.edu/albrightbooks/Free_downloads.htm) for the Business Analytics textbook by Albright and Winston. The DADM_UT add-in independently maintained.
+DADM_UT is based on the [free Excel add-ins](https://host.kelley.iu.edu/albrightbooks/Free_downloads.htm) for the Business Analytics textbook by Albright and Winston. 
+
+The DADM_UT add-in independently maintained.
 
