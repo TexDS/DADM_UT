@@ -4,6 +4,6 @@
 
 title: DADM_UT Home
 description: Excel add-in for Monte Carlo simulation and decision trees
-show_downloads: true
+show_downloads: false
 google_analytics:
-theme: minima
+theme: jekyll-theme-modernist
