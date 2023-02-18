@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Download
 
-[Download DADM_UT](./DADM_UT.xlam).
+[Download DADM_UT](./DADM_UT.xlam)
 
-There should be whitespace between paragraphs.
+# Tutorials
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Building Decision Trees](https://youtu.be/O-ZQ8p5cSHA)
 
 ## Header 2
 
