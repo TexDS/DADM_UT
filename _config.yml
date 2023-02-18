@@ -1,3 +1,9 @@
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/modernist@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: DADM_UT Home
+description: Excel add-in for Monte Carlo simulation and decision trees
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
