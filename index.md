@@ -17,6 +17,7 @@ DADM_UT is an Excel VBA add-in (.xlam file). It works on the desktop version of 
 1. Go to the folder where you saved the add-in
 2. Right click on the add-in file and click Properties
 3. Check the box beside “Unblock” at the bottom and click Apply, then click OK
+
       Note: If you do not see the checkbox to unblock, then you do not need to do this step.
 
 ### Load the add-in to Excel
