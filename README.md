@@ -8,8 +8,6 @@ NOTE: This add-in works on both Windows and Mac with the desktop Excel applicati
 
 # Installation
 
-DADM_UT is an Excel VBA add-in (.xlam file). It works on the desktop version of Excel for both Windows PC and Mac.
-
 ## Install on Windows
 
 ### Unblock the add-in (.xlam) file
