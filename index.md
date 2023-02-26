@@ -49,5 +49,5 @@ DADM_UT is an Excel VBA add-in (.xlam file). It works on the desktop version of 
 
 DADM_UT is based on the [free Excel add-ins](https://host.kelley.iu.edu/albrightbooks/Free_downloads.htm) for the Business Analytics textbook by Albright and Winston. 
 
-The DADM_UT add-in independently maintained.
+The DADM_UT add-in is independently maintained.
 
