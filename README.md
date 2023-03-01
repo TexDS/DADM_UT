@@ -1,3 +1,9 @@
+# About
+
+DADM_UT is based on the [free Excel add-ins](https://host.kelley.iu.edu/albrightbooks/Free_downloads.htm) for the Business Analytics textbook by Albright and Winston. 
+
+The DADM_UT add-in is independently maintained. It is provided for free and without warranty or active support. 
+
 
 # Download
 
@@ -42,10 +48,4 @@ NOTE: This add-in works on both Windows and Mac with the desktop Excel applicati
 
 [Building Decision Trees](https://youtu.be/O-ZQ8p5cSHA)
 
-
-# About
-
-DADM_UT is based on the [free Excel add-ins](https://host.kelley.iu.edu/albrightbooks/Free_downloads.htm) for the Business Analytics textbook by Albright and Winston. 
-
-The DADM_UT add-in is independently maintained.
 
