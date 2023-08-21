@@ -43,6 +43,51 @@ NOTE: This add-in works on both Windows and Mac with the desktop Excel applicati
 5. Click “Open”
 6. Click “OK” in the add-ins window
 
+## Common Problems
+### Troubleshoot Installation on Windows
+
+If you get the #NAME! error for probability functions and an error message when opening DADM or trying to run a simulation, even if you click to enable macros, try the following. It seems to mostly be a problem on Windows 11, but not earlier Windows versions.
+
+You need to manually add the location of wherever the DADM_UT file was downloaded into the trust center. First, delete the DADM_UT file and re-download it (make sure to right click on the file, go to Properties, and check the box to unblock the file, if that box is there).
+
+Then in Excel go to:
+
+1. File
+2. Options
+3. Trust Center (left hand side menu)
+4. Then click Trust Center Settings
+5. go to Trusted Locations
+6. Add new location..
+7. then Browse or manually type the path wherever the DADM file was loaded
+8. then click OK and OK again to get out of the options.
+
+### Troubleshoot Removing DADM on Windows
+
+Sometimes after removing an add in, Excel still looks for the add in when you open Excel and gives a "file can't be found" error message.
+
+First you will want to note the file path that Excel thinks the add-in should be located in and the name of the add-in file. Once you know where that folder is located and the name of the add-in, proceed to do the following:
+
+1. Create a new Excel file
+2. Save the file with the following conditions:
+      - Use the Add-in name
+      - Use the Excel file extension “.xlam” (if it is an older add-in it might need to be “.xla”)
+      - Save to the same folder path
+3. Once you have saved this new faux add-in file, close down Excel
+4. Reopen Excel and hopefully you won’t receive the error message
+5. Go into your Excel Add-ins dialog box and check the add-in and hit Ok
+6. Go back into you Excel Add-ins dialog box and uncheck the add-in and hit OK
+7. Close out of Excel
+
+### Troubleshoot Installation on Mac
+
+If you have a Mac and are having a problem with Excel crashing when you try to run a simulation with DADM, you might need to open Excel with Rosetta, a software used on Macs with the new M1 chip.
+
+1. Close any Microsoft apps (Excel, PowerPoint, etc.)
+2. in Finder, navigate to where the Excel app is (most likely in your Applications folder)
+3. Right-click on the Excel app and select "Get Info"
+4. Check the box for "Open using Rosetta" (if it is there)
+5. Then open Excel again and try running a simulation.
+6. See here for instructions with screenshots: https://www.ithinkdiff.com/open-apps-using-rosetta-mac-m1/
 
 # Tutorials
 
