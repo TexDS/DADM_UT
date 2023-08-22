@@ -46,9 +46,15 @@ NOTE: This add-in works on both Windows and Mac with the desktop Excel applicati
 ## Common Problems
 ### Troubleshoot Installation on Windows
 
-If you get the #NAME! error for probability functions and an error message when opening DADM or trying to run a simulation, even if you click to enable macros, try the following. It seems to mostly be a problem on Windows 11, but not earlier Windows versions.
+If you have correctly installed DADM_UT and enabled macros, but you have any of these problems:
 
-You need to manually add the location of wherever the DADM_UT file was downloaded into the trust center. First, delete the DADM_UT file and re-download it (make sure to right click on the file, go to Properties, and check the box to unblock the file, if that box is there).
+- get a warning message, "File couldn't open in protected view," when opening Excel
+- DADM menu buttons don't work, try the following:
+- get the #NAME! error for probability functions
+
+You need to manually add the location of wherever the DADM_UT file was downloaded into the trust center. It seems to mostly be a problem on Windows 11, but not earlier Windows versions.
+
+First, delete the DADM_UT file and re-download it (make sure to right click on the file, go to Properties, and check the box to unblock the file, if that box is there).
 
 Then in Excel go to:
 
