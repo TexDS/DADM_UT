@@ -97,6 +97,7 @@ If you have a Mac and are having a problem with Excel crashing when you try to r
 
 # Tutorials
 
+[Basic Monte Carlo Simulation](https://youtu.be/F4V6cRiI1tE)
 [Building Decision Trees](https://youtu.be/O-ZQ8p5cSHA)
 
 
