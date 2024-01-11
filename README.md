@@ -7,7 +7,7 @@ The DADM_UT add-in is independently maintained. It is provided for free and with
 
 # Download
 
-[Download DADM_UT](./DADM_UT.xlam)
+[Download DADM_UT](https://github.com/TexDS/DADM_UT/releases/download/v3.2.0/DADM_UT.xlam)
 
 NOTE: This add-in works on both Windows and Mac with the desktop Excel application. It does **not** work with the online Excel web-app.
 
