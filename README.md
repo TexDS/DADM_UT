@@ -4,6 +4,9 @@ DADM_UT is based on the [free Excel add-ins](https://host.kelley.iu.edu/albright
 
 The DADM_UT add-in is independently maintained. It is provided for free and without warranty or active support. 
 
+# User Guide
+
+[Download the DADM_UT user guide and installation instructions](https://github.com/TexDS/DADM_UT/blob/main/DADM%20Guide.pdf)
 
 # Download
 
