@@ -8,6 +8,8 @@ The DADM_UT add-in is independently maintained. It is provided for free and with
 
 [Download the DADM_UT user guide and installation instructions](https://github.com/TexDS/DADM_UT/blob/main/DADM%20Guide.pdf)
 
+[A page with helpful tips.](https://github.com/TexDS/DADM_UT/blob/main/tips.md)
+
 # Download
 
 [Download DADM_UT](https://github.com/TexDS/DADM_UT/releases/download/v3.2.1/DADM_UT.xlam)
