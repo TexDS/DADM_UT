@@ -100,6 +100,13 @@ If you have a Mac and are having a problem with Excel crashing when you try to r
 5. Then open Excel again and try running a simulation.
 6. See here for instructions with screenshots: https://www.ithinkdiff.com/open-apps-using-rosetta-mac-m1/
 
+If DADM has been working but suddenly starts crashing or giving errors like this:   
+
+![image](https://github.com/user-attachments/assets/81cbd3ed-1b34-4251-9d49-c5ec00e0bb44)
+
+You might just need to restart Excel and/or your computer.
+Note that to restart Excel on a Mac, you need to quit the Excel application (not just close all open Excel windows). When you have an Excel window selected, click "Excel" at the menu bar at the top of your screen and click "Quit Excel" to fully close the app. Or, you can right click on the Excel app icon in the dock (at the bottom of the screen) and click Quit.
+
 # Tutorials
 
 [Basic Monte Carlo Simulation](https://youtu.be/F4V6cRiI1tE)
