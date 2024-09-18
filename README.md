@@ -111,6 +111,8 @@ Note that to restart Excel on a Mac, you need to quit the Excel application (not
 
 [Basic Monte Carlo Simulation](https://youtu.be/F4V6cRiI1tE)
 
+[Decision Variables in DADM_UT](https://www.youtube.com/watch?v=vMy46u2ovEQ)
+
 [Building Decision Trees](https://youtu.be/O-ZQ8p5cSHA)
 
 
