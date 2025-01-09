@@ -27,7 +27,7 @@ NOTE: This add-in works on both Windows and Mac with the desktop Excel applicati
 2. Right click on the add-in file and click Properties
 3. Check the box beside “Unblock” at the bottom and click Apply, then click OK
 
-      Note: If you do not see the checkbox to unblock, then you do not need to do this step.
+      Note: If you do not see the checkbox to unblock, close the Properties windo, left click **once** on the file to ensure it is selected, then right click it and select Properties
 
 ### Load the add-in to Excel
 
