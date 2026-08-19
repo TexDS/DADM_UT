@@ -1,6 +1,6 @@
 # Download
 
-### [Download DADM_UT](https://github.com/TexDS/DADM_UT/releases/download/v3.3.0/DADM_UT.xlam)
+### [Download DADM_UT](https://github.com/TexDS/DADM_UT/releases/download/v4.0/DADM_UT_4.0.xlam)
 NOTE: This add-in works on both Windows and Mac with the desktop Excel application. It does **not** work with the online Excel web-app.
 
 # About
